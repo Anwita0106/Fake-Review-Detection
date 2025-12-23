@@ -78,23 +78,36 @@ textarea {
     box-shadow: 0px 10px 25px rgba(99,102,241,0.5);
 }
 
-/* Result cards */
+/* RESULT CARDS – HIGH CONTRAST */
 .result-card {
     padding: 22px;
     border-radius: 16px;
-    margin-top: 22px;
+    margin-top: 24px;
     font-size: 18px;
-    animation: fadeUp 0.6s ease;
+    font-weight: 600;
 }
 
-.fake {
-    background: rgba(239, 68, 68, 0.15);
-    border-left: 6px solid #ef4444;
-}
-
+/* GENUINE RESULT */
 .genuine {
-    background: rgba(34, 197, 94, 0.15);
-    border-left: 6px solid #22c55e;
+    background-color: #e6fffa;      /* light mint */
+    color: #065f46;                 /* dark green text */
+    border-left: 6px solid #10b981; /* green accent */
+}
+
+/* FAKE RESULT */
+.fake {
+    background-color: #fee2e2;      /* light red */
+    color: #7f1d1d;                 /* dark red text */
+    border-left: 6px solid #ef4444; /* red accent */
+}
+
+/* CONFIDENCE TEXT */
+.confidence-text {
+    font-size: 16px;
+    margin-top: 8px;
+    color: #111827;
+    font-weight: 500;
+    font-weight: 500;
 }
 
 /* Footer */

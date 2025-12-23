@@ -101,7 +101,6 @@ Confidence: 0.75
 
 
 🏢 Real-World Applications
-
 E-commerce platforms (Flipkart, Amazon, etc.)
 
 Online marketplaces
@@ -110,8 +109,9 @@ Review moderation systems
 
 Trust & safety analytics tools
 
-🔮 Future Improvements
 
+
+🔮 Future Improvements
 Deep learning models (LSTM / BERT)
 
 Highlighting suspicious keywords
@@ -129,8 +129,9 @@ Anwita Padhi
 Computer Science / Cybersecurity
 Interested in Machine Learning, NLP & AI systems
 
-⭐ Why this project stands out
 
+
+⭐ Why this project stands out
 This project demonstrates:
 
 Practical use of ML & NLP
@@ -152,5 +153,6 @@ After updating README:
 git add README.md
 git commit -m "Make README more user friendly"
 git push
+
 
 

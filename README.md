@@ -68,6 +68,7 @@ Fake / Genuine result + confidence score
 
 ---
 
+
 ## ⚙️ How to Run the Project
 
 ### 1️⃣ Clone the repository
@@ -96,6 +97,9 @@ Output:
 Genuine Review ✅
 Confidence: 0.75
 
+
+
+
 🏢 Real-World Applications
 
 E-commerce platforms (Flipkart, Amazon, etc.)
@@ -118,8 +122,9 @@ API integration for platforms
 
 Browser extension or SaaS version
 
-👩‍💻 Author
 
+
+👩‍💻 Author
 Anwita Padhi
 Computer Science / Cybersecurity
 Interested in Machine Learning, NLP & AI systems
@@ -137,15 +142,15 @@ Clean UI & product thinking
 End-to-end system development
 
 Suitable for Software Engineering, ML, and Security roles.
-
-
 ---
+
+
 
 ## ✅ NEXT STEP (IMPORTANT)
 After updating README:
-
 ```bash
 git add README.md
 git commit -m "Make README more user friendly"
 git push
+
 

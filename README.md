@@ -26,6 +26,7 @@ This project provides an **automated AI-based solution** to detect fake product 
 ✔ Shows a **confidence score** for transparency  
 ✔ Displays results through a clean, interactive UI  
 
+
 ---
 
 ## 🧠 How it works (Simple Explanation)
